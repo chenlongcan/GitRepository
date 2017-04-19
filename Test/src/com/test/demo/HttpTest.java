@@ -63,6 +63,7 @@ public class HttpTest {
 //			}else{
 //				System.out.println("false");
 //			}
+			System.out.println("sssssssssssssssssssssssssssssssssssssssssssssssss);
 //			
 //			URL fileUrl = new URL("");
 //		    HttpURLConnection connection = (HttpURLConnection)fileUrl.openConnection();
