@@ -88,6 +88,10 @@ public class HttpTest {
 //		    	System.out.println("false");
 //		    }
 			
+			
+			
+			
+			
 			final String url = "https://file.52touzi.cn/file/show/58ed8a91e4b0facbd7461767";
 			HttpPost httpPost = new HttpPost(url);
 			HttpClient httpClient = new DefaultHttpClient();
