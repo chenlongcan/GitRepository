@@ -76,7 +76,13 @@ public class HttpTest {
 //			
 //			URL fileUrl = new URL("");
 //		    HttpURLConnection connection = (HttpURLConnection)fileUrl.openConnection();
+
 //		     222222
+
+//		    
+        	System.out.println("sssssssssssssssssssssssssssssssssssssssssssssssss");
+      	  System.out.println("sssssssssssssssssssssssssssssssssssssssssssssssss");
+
 //		    if (connection.getResponseCode() == HttpURLConnection.HTTP_OK){
 //		    	System.out.println("true");
 //		    	InputStream in = connection.getInputStream();
