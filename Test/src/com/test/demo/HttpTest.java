@@ -22,9 +22,7 @@ import org.apache.http.client.entity.UrlEncodedFormEntity;
 import org.apache.http.client.methods.HttpPost;
 import org.apache.http.impl.client.DefaultHttpClient;
 import org.apache.http.message.BasicNameValuePair;
-1111111111111111
-2222222222
-333333333333333
+
 
 public class HttpTest {
 	
