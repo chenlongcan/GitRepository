@@ -23,7 +23,7 @@ import org.apache.http.client.methods.HttpPost;
 import org.apache.http.impl.client.DefaultHttpClient;
 import org.apache.http.message.BasicNameValuePair;
 
-sdfsdf是大风第三方士大夫
+
 public class HttpTest {
 	
 	public static void httpTest() throws ClientProtocolException, IOException {
